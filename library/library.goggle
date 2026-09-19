@@ -1,0 +1,20 @@
+! name: Library
+! description: Curated Library for free reading
+! public: false
+! author: yourname
+! avatar: #1793d1
+
+$boost=3,site=annas-archive.gl
+$boost=3,site=annas-archive.pk
+$boost=3,site=annas-archive.gd
+$boost=3,site=libgen.li
+$boost=3,site=libgen.gl
+$boost=3,site=libgen.bz
+$boost=3,site=libgen.vg
+$boost=3,site=www.gutenberg.org
+$boost=3,site=oceanofpdf.com
+archive.org/details/texts$boost=2
+$boost,site=z-lib.gd
+$boost,site=z-library.sk
+$boost,site=1lib.sk
+$boost,site=z-lib.fm
