@@ -9,16 +9,20 @@ static const Meta meta = {
 };
 
 static const Rule rules[] = {
-	{ BOOST,    3,  "fmovies.org "
-                    "fmovies.tips "
-                    "fmovies4k.org "
-                    "fmovies-4u.com "
-                    "fmovies-to.pro "
+	{ BOOST,    3,  
+        "fmovies.org "
+        "fmovies.tips "
+        "fmovies4k.org "
+        "fmovies-4u.com "
+        "fmovies-to.pro "
     },
-	{ BOOST,    2,  "1show.org "
-                    "pahe.in "
+//	{ BOOST,    2,
+//      ""
+//  },
+    { DOWNRANK, 2,
+        "1show.org " 
+        "pahe.in "
     },
-	{ DOWNRANK, 2, "imdb.com" },
 	{ DISCARD,  0, "" },
 };
 

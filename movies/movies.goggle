@@ -8,7 +8,6 @@ $boost=3,site=fmovies.tips
 $boost=3,site=fmovies4k.org
 $boost=3,site=fmovies-4u.com
 $boost=3,site=fmovies-to.pro
-$boost=2,site=1show.org
-$boost=2,site=pahe.in
-$downrank=2,site=imdb.com
+$downrank=2,site=1show.org
+$downrank=2,site=pahe.in
 $discard
